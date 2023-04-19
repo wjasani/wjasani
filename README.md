@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @wjasani<br>- 🔭 I’m interested in Artificial intelligence and Machine Learning and Android App Development <br>- 🌱 I’m currently learning about Ai/Ml and how to integrate them with multiple fields of study. (Also learning how to not be socially awkward 😅)<br>- 💞️ I’m looking to collaborate on all projects related to android app development and Ai/Ml<br>- ⚡ Fun Fact : The deeper you know me, the more lamer my jokes get😂<br>- 📫 How to reach me <br>          you can mail me at jasaniwasim2002@gmail.com<br><br><!---<br>wjasani/wjasani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.<br>You can click the Preview link to take a look at your changes.<br>---><br>
+- 👋 Hi, I’m @wjasani<br>- 🔭 I’m interested in Artificial intelligence and Machine Learning and Android App Development <br>- 🌱 I’m currently learning about Ai/Ml and how to integrate them with multiple fields of study. (Also learning how to not be socially awkward 😅)<br>- 💞️ I’m looking to collaborate on all projects related to android app development and Ai/Ml<br>- ⚡ Fun Fact : The deeper you know me, the more lamer my jokes get😂<br>- 📫 How to reach me <br>          you can mail me at jasaniwasim2002@gmail.com<br><br>
 
 
 ## 🌐 Socials:
